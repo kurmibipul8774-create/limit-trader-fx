@@ -1,8 +1,0 @@
-{
-  "name": "Limit Trader FX",
-  "short_name": "Limit Trader FX",
-  "start_url": "/limit-trader-fx/",
-  "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#0f172a"
-}
